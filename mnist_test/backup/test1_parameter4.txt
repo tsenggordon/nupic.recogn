@@ -1,0 +1,40 @@
+Set Connection Perminence Precision = 1
+testing accuracy: 100.0
+NodeDimension: 32
+--------------------
+
+Set Connection Perminence Precision = 2
+testing accuracy: 87.5
+NodeDimension: 32
+--------------------
+
+Set Connection Perminence Precision = 3
+testing accuracy: 93.75
+NodeDimension: 32
+--------------------
+
+Set Connection Perminence Precision = 4
+testing accuracy: 100.0
+NodeDimension: 32
+--------------------
+
+Set Connection Perminence Precision = 5
+testing accuracy: 87.5
+NodeDimension: 32
+--------------------
+
+Set Connection Perminence Precision = 6
+testing accuracy: 100.0
+NodeDimension: 32
+--------------------
+
+Set Connection Perminence Precision = 7
+testing accuracy: 100.0
+NodeDimension: 32
+--------------------
+
+Set Connection Perminence Precision = 8
+testing accuracy: 100.0
+NodeDimension: 32
+--------------------
+

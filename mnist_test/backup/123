@@ -1,0 +1,7 @@
+Set Spatial Pooler Node Dimension = 18
+Reading data set:  ../data_set/OCR/characters/hex_all.xml
+
+Reading data set:  ../data_set/OCR/characters/hex_normal.xml
+
+testing accuracy: 87.5
+NodeDimension: 18
